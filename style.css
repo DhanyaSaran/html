@@ -1,0 +1,66 @@
+
+
+
+h1{
+
+color: red;
+margin-left: 350px;
+margin-top: 0px;
+background-color: black;
+
+ }
+
+/*
+Zain,
+
+i have removed the header 2 as its not needed.. only for basic needs i have given it.
+
+*/
+.links{
+   display: flex;
+   justify-content:space-between;
+   margin-right: 10px;
+   background-color: black;
+ 
+}
+
+.header{
+
+   
+   display: flex;
+   justify-content:space-around;
+   
+   background-color: black;
+
+ }
+
+ .origami{
+background-color: rgb(227, 235, 155);
+border: solid;
+border-radius: 10%;
+width: 400;
+height: 250;
+
+ }
+ .grid{
+    background-color: rgb(166, 230, 230);
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+ }
+ .image{
+   text-align: center;
+   border: solid;
+   width: 200;
+   height: 105;
+   border-radius: 10%;
+   margin: auto;
+  
+   
+
+
+
+ }
